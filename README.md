@@ -7,3 +7,5 @@
 **Incorporating priors with feature attribution on text classification**
 
 **Robust attribution regularization**
+
+**Interpretations are useful: penalizing explanations to align neural networks with prior knowledge**
